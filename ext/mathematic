@@ -1,0 +1,15 @@
+
+Math.sqrt(x) => x'in karekökünü alır.
+Math.pow(x, y) => x'in y'ninci kuvvetini alır.
+Math.abs(x) => x'in mutlak değerini alır.
+Math.max(x, y) => x ve y'den büyüğünü verir.
+Math.min(x) => x ve y'den küçüğünü verir.
+Math.floor(x) => x sayısını en yakın küçük tam sayıya yuvarlar.
+Math.ceil(x) => x sayısını en yakın büyük tam sayıya yuvarlar.
+Math.round(x) => x sayısını yuvarlar.
+Math.sin(x) => x radyan açısının sinüs değerini verir.
+Math.cos(x) => x radyan açısının cosinüs değerini verir.
+Math.log(x) => e tabanına göre logaritma alır.
+Math.log10(x) => onluk taba göre logaritma alır.
+Math.PI => Pi sayısı.
+Math.E => E sayısı.
